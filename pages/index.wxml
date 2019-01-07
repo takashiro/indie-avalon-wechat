@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<import src="global.wxml" />
+<template is="header" />
+
+<template is="footer" />

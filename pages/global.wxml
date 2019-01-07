@@ -1,0 +1,14 @@
+<template name="header">
+	<view class="header">
+		<h1>The Resistence: Avalon</h1>
+	</view>
+</template>
+
+<template name="footer">
+	<view class="footer">
+		<text class="copyright">
+			The Resistence: Avalon © 2019
+			Authored by Kazuichi Takashiro
+		</text>
+	</view>
+</template>
