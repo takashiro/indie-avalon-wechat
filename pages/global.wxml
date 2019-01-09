@@ -1,5 +1,6 @@
 <template name="header">
 	<view class="header">
+		<image src="../style/excalibur.jpg" />
 		<h1>The Resistence: Avalon</h1>
 	</view>
 </template>
