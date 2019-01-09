@@ -1,5 +1,14 @@
 <!--index.wxml-->
 <import src="global.wxml" />
 <template is="header" />
-
+<view class="lobby">
+	<view class="main-form">
+		<input type="number" auto-focus placeholder="房间号" />
+		<button>进入房间</button>
+	</view>
+	<view class="action">
+		<button>退出游戏</button>
+		<button>创建房间</button>
+	</view>
+</view>
 <template is="footer" />

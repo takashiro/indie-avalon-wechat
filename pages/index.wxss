@@ -1,1 +1,36 @@
 /**index.wxss**/
+
+view.main-form {
+	padding: 20px 17%;
+}
+
+view.main-form input,
+view.main-form button {
+	font-size: large;
+	line-height: 3em;
+	height: 3em;
+	padding: 0;
+	margin: 25px 0;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 8px;
+}
+
+view.main-form input[type="number"] {
+	background: white;
+}
+
+view.action {
+	padding: 30px;
+	text-align: right;
+	display: flex;
+}
+
+view.action button {
+	width: auto;
+	display: inline-block;
+	padding: 0.8em 1em;
+	line-height: 1em;
+	background: none;
+	font-size: medium;
+}
